@@ -49,8 +49,7 @@
 @media screen and (max-width: 600px){
     #about,
     .about-container{
-        margin-top: 300px;
-        display: auto;
+        margin-top: 150px;
     }
     #contact,
     footer{
@@ -103,5 +102,6 @@
     }
     .text-container{
         text-align: justify;
+
     }
 }
